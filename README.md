@@ -17,8 +17,8 @@ A Web Application for storing / saving data for monthly expenses made with a bui
 
 ### Links
 
-- Solution URL: https://github.com/paul-dont/moshify-landing-page
-- Live Site URL: https://mellifluous-snickerdoodle-6095d0.netlify.app
+- Solution URL: https://github.com/paul-dont/monthly-expenses-app
+- Live Site URL: https://vermillion-gnome-e3664d.netlify.app
 
 ### Built with
 
